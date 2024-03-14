@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: contractions-expander
+Version: 0.1
+Summary: A Python library to expand contractions in multiple languages.
+Home-page: https://github.com/Krish1095-projects/contractions_expander
+Author: Krishna Kumar
+Author-email: krish.kk.1095@gmail.com
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+Requires-Dist: nltk
+
+A Python library to expand contractions in English, Spanish, French, Italian, and Romanian languages.
