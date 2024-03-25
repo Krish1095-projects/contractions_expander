@@ -7,6 +7,7 @@ french_contractions = {
     "ces": "ces",
     "cet": "ce",
     "cette": "ce",
+    "J'ai":'Je ai',
     "depuis": "depuis",
     "jusqu'au": "jusqu'à le",
     "jusqu'à": "jusqu'à",
