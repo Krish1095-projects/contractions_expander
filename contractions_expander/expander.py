@@ -1,4 +1,4 @@
-from .english import english_contractions
+import contractions
 from .spanish import spanish_contractions
 from .french import french_contractions
 from .italian import italian_contractions
@@ -6,7 +6,7 @@ from .romanian import romanian_contractions
 
 def expand_contractions(sentence, lang_code):
     if lang_code == 'en':
-        contractions_dict = english_contractions
+        contractions_dict = contractions.contractions_dict
     elif lang_code == 'es':
         contractions_dict = spanish_contractions
     elif lang_code == 'fr':

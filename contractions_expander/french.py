@@ -1,4 +1,4 @@
-spanish_contractions = {
+french_contractions = {
     "au": "à le",
     "aux": "à les",
     "du": "de le",
@@ -84,4 +84,5 @@ spanish_contractions = {
     "qu'on": "qu'on",
     "qu'ils": "qu'ils",
     "qu'elles": "qu'elles",
-    "qu'on": "qu'on"}
+    "qu'on": "qu'on"
+}

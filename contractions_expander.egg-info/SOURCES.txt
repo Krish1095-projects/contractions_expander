@@ -1,6 +1,5 @@
 setup.py
 contractions_expander/__init__.py
-contractions_expander/english.py
 contractions_expander/expander.py
 contractions_expander/french.py
 contractions_expander/italian.py
